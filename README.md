@@ -1,4 +1,4 @@
-Explicación de las funcionalidades añadidas:
+Explicación de las funcionalidades:
 
 Argumentos del Script:
 
