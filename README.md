@@ -21,6 +21,6 @@ Para ejecutar el script, puedes usar las siguientes opciones según lo necesites
 
 Por ejemplo:
 
-python dork.py -q 'site:"www.santander.com" file:"pdf"' -e resultados.txt -r 10 -v -f -d
+python dork.py -q 'site:"www.dominio.com" file:"pdf"' -e resultados.txt -r 10 -v -f -d
 
 Limitaciones por el api de Google
